@@ -1,0 +1,46 @@
+GAEL 0.6.1 - WINDOWS x64
+
+1. Extract this ZIP and run Gael-0.6.1-portable.exe.
+   Close any older Gael using its tray menu first.
+   The app is unsigned. No Node.js installation is needed.
+
+2. Drag the small lightning companion anywhere on your primary screen.
+   Right-click to change its size (64 / 80 / 96 px), mute, hide or quit.
+   Double-click or press Ctrl+Shift+G to open the companion panel.
+
+3. Under Assistant settings, enter YOUR OWN OpenAI API key with API credit.
+   ChatGPT subscriptions do not include API credit. API calls/search cost money.
+   No API key, personal conversations or saved guides are bundled in this ZIP.
+
+4. For voice: Talk -> speak -> Finish -> review transcript -> Send.
+   Responses are in English and read with an English Windows voice.
+   Test voice does not need a key. Install an English voice if needed.
+   Mic records only on request and stops after 30 seconds or cancellation.
+
+5. Before playing, fill in Game guide: game, platform/version, progress,
+   equipment and resources. Save progress, then Prepare walkthrough.
+   Ask about next steps, maps/routes, items, upgrades or bosses.
+   Update your profile as you advance. Gael cannot see your game screen.
+   Guide quality depends on sources; inspect the clickable citations.
+
+6. Progress and guides stay on each person's computer. Delete this guide
+   removes a local game profile. New chat clears its conversation context.
+   Your key is encrypted by Windows. Do not share your settings folder.
+
+Use borderless windowed mode for games. Exclusive fullscreen may hide overlays.
+This version is Windows x64 only, not macOS/Linux. Multi-monitor dragging,
+continuous listening and wake-word activation are not included.
+
+You can share this ZIP as a download through your preferred file service.
+
+COSMIC MOTION: Gael now has continuously flowing plasma, orbiting particles and
+smooth form blending. Motion remains inside the small avatar square and pauses
+while dragging, when muted/hidden, or when Windows reduced motion is enabled.
+
+
+DESKTOP ADVENTURES: When idle on the desktop, Gael flies around, struggles at
+a screen edge, leans close to you and returns to the same place. Right-click
+to toggle Desktop adventures or Try a desktop adventure. Help interrupts it.
+
+
+DESKTOP FLIGHT: Wait 20 seconds without interacting with Gael. He races around the edges, approaches the center and returns home in 7 seconds. Right-click: Desktop adventures / Try a desktop adventure.

@@ -1,0 +1,45 @@
+{
+  "name": "gael",
+  "version": "0.6.1",
+  "description": "Your tiny shapeshifting gaming companion",
+  "author": "bcgnn",
+  "private": true,
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "demo": "electron . --demo",
+    "test": "node --test test/*.test.js",
+    "dist": "electron-builder --win portable"
+  },
+  "devDependencies": {
+    "electron": "44.4.5",
+    "electron-builder": "26.15.3"
+  },
+  "build": {
+    "appId": "com.bcgnn.gael",
+    "productName": "Gael",
+    "files": [
+      "main.js",
+      "preload.js",
+      "chat-preload.js",
+      "src/**",
+      "renderer/index.html",
+      "renderer/style.css",
+      "renderer/app.js",
+      "renderer/chat.html",
+      "renderer/chat.css",
+      "renderer/chat.js",
+      "assets/**",
+      "package.json",
+      "renderer/cosmos.js",
+      "renderer/journey.js"
+    ],
+    "win": {
+      "target": "portable",
+      "signAndEditExecutable": false
+    },
+    "portable": {
+      "artifactName": "Gael-${version}-portable.exe"
+    }
+  }
+}

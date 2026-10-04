@@ -1,0 +1,17 @@
+node_modules/
+dist/
+backup*/
+validation*/
+*.log
+.env
+.env.*
+*.pem
+*.key
+settings.json
+guides.json
+.DS_Store
+Thumbs.db
+preview-export.js
+Gael-ninja.svg
+ABRIR-GAEL.cmd
+ABRIR-DEMO.cmd
